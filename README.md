@@ -1,1 +1,1 @@
-# sequelize
+# sequelize with node.js
